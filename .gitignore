@@ -2,7 +2,7 @@
 /dist
 /nestjs-api/node_modules
 /nestjs-api/.env
-
+.env
 # Logs
 logs
 *.log
