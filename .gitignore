@@ -1,7 +1,7 @@
 # compiled output
 /dist
 /nestjs-api/node_modules
-.env
+/nestjs-api/.env
 
 # Logs
 logs
